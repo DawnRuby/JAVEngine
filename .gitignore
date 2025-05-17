@@ -6,3 +6,5 @@ x64/
 packages/
 
 JAVEngine/thirdParty/
+
+build/
